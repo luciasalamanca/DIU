@@ -13,11 +13,19 @@
 
 ### PERSONAS
 
-
-- Desk research: Análisis Competencia 
-- 2 Personas 
-- 2 User Journey Map  ( 1 por persona)
-- Revisión de Usabilidad 
+![Fernando](./PersonaFernando.PNG)
 
 
-(valoración y conclusiones de esta etapa)
+![Yasmine](./PersonaYasmine.PNG)
+
+### JOURNEY MAP
+
+![Journey map de Fernando](./Fernando_journey.png)
+
+
+![Journey map de Yasmine](./Yasmine_journey.png)
+
+
+### VALORACIÓN Y CONCLUSIÓN
+
+Los usuarios son capaces de navegar por la página y realizar las tareas que necesiten. Sin embargo, la interfaz puede ser mejorada en muchos aspectos para que la experiencia de usuario sea más satisfactoria.
