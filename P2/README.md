@@ -4,8 +4,7 @@
 
 #### Mapa de empatía
 
-
-![Mapa de empatía](./EmpathyMap.PNG)
+![Mapa de empatía](../img/EmpathyMap.PNG)
 
 ### PROPUESTA DE VALOR
 * ScopeCanvas
