@@ -7,8 +7,9 @@
 ![Mapa de empatía](../img/EmpathyMap.PNG)
 
 ### PROPUESTA DE VALOR
-* ScopeCanvas
 
+#### ScopeCanvas
+![ScopeCanvas](../img/ScopeCanvas.jpg)
 
 ### TASK ANALYSIS
 
