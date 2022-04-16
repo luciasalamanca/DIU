@@ -45,6 +45,27 @@ Hemos decidido realizar el User Task Matrix para tener una visión más clara de
 
 ### Prototipo Lo-FI Wireframe 
 
+#### Página de Inicio
 
-### Conclusiones  
-(incluye valoración de esta etapa)
+![Inicio](./Inicio-Boceto.jpg)
+
+#### Página de Conciertos
+
+![Conciertos](./Conciertos-Boceto.jpg)
+
+#### Página de Carta
+
+![Carta](./Carta-Boceto.jpg)
+
+#### Página de Localización
+
+![Localizacion](./Localizacion-Boceto.jpg)
+
+#### Página de Contacto
+
+![Contacto](./Contacto-Boceto.jpg)
+
+#### Página de Reserva
+
+![Reserva](./Reserva-Boceto.jpg)
+
