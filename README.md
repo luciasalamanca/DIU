@@ -5,11 +5,11 @@ Grupo:  DIU2.Unknown  Curso: 2021/22
 Updated: 11/2/2022
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+**La música como terapia**
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+La idea de nuestro microsite es potenciar la música en directo que se ofrece en el hostal, proponiendo un lugar en el que la música sirva como desconexión a los problemas del día a día. Esto servirá para captar la atención de los amantes de la música y de los artistas que se quieran dar a conocer.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
@@ -22,9 +22,6 @@ Miembros
 
 
 
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
-
 # Proceso de Diseño 
 
 ## Paso 1. UX Desk Research & Analisis 
@@ -32,26 +29,44 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+| **Característica**| **Carlota Braun** | **TocHostels** | **CasaBarceló**|
+| --- | --- | --- | --- | 
+| **Selección de idioma**| Dispone de una opción para traducir mediante el traductor de google (en ocasiones dando lugar a traducciones más inexactas). |Ofrece una opción para cambiar de idioma a inglés y coreano. | Únicamente está disponible en español e inglés.|
+| **Localización**| Al acceder al apartado _Donde estamos_ aparecen lugares próximos pero no la localización exacta, teniendo que bajar hasta el final de la página para verla. |No hay un apartado de localización, aunque si descendemos en la página principal encontramos todas las ubicaciones exactas.|Al acceder al apartado _Ubicación_ encontramos la dirección exacta del establecimiento y direcciones para llegar.|
+| **Página principal**| El diseño de la página principal es atractivo pero poco legible debido al poco contraste entre la tipografía y la imagen del fondo. |La página principal es elegante y minimalista ofreciendo la información más relevante al bajar por la página.|El diseño es menos atractivo que el de las otras dos páginas ofreciendo menos información que en los casos previos.|
+| **Diseño de la interfaz**| Atractiva, sin embargo, tiene varios errores como el comentado anteriormente y faltas de ortografía. | Interfaz atractiva y muy intuitiva.|Poco atractiva y a veces resulta poco intuitiva debido a las posiciones donde se encuentran distintas funcionalidades.|
+| **Información acerca de las instalaciones**| Ofrece un resumen de los servicios que disponen y fotografías de las habitaciones. |Ofrece fotografías y un resumen detallado de todos los servicios que ofrecen.|Sólo ofrece una galería de fotografías pero no señala los distintos servicios de los que dispone el hotel y, en concreto, las habitaciones.|
+
+
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+Hemos elegido dos personas que pueden ser clientes potenciales de un hostel. Una de ellas con más experiencia en el uso de la tecnología y otra con menos experiencia. 
+
+
+![Fernando](./P1/PersonaFernando.PNG)
+
+
+![Yasmine](./P1/PersonaYasmine.PNG)
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+Pensamos que estas dos experiencias de usuarios pueden ser las habituales conforme a la personalidad dotada en la creación de ambas personas.
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+
+![Journey map de Fernando](./P1/Fernando_journey.png)
+
+![Journey map de Yasmine](./P1/Yasmine_journey.png)
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
 
+Tanto el xls como el pdf se encuentran en la carpeta P1.
+
+La valoración final es de 61. Los usuarios son capaces de navegar por la página y realizar las tareas que necesiten. Sin embargo, la interfaz puede ser mejorada en muchos aspectos para que la experiencia de usuario sea más satisfactoria.
 
 ## Paso 2. UX Design  
 
