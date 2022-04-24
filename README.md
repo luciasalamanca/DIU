@@ -74,9 +74,9 @@ La valoración final es de 61. Los usuarios son capaces de navegar por la págin
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
+#### Mapa de empatía 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
+![Mapa de empatía](./img/EmpathyMap.PNG)
 
  Interesante | Críticas     
 | ------------- | -------
@@ -92,29 +92,70 @@ La valoración final es de 61. Los usuarios son capaces de navegar por la págin
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+
+![ScopeCanvas](./img/ScopeCanvas.jpg)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
-
+Hemos decidido realizar el User Task Matrix para tener una visión más clara de la importancia de cada una de las funcionalidades para saber cuáles priorizar en la interfaz.
+#### User Task Matrix 
+| Tareas | **Grupo de amigos** | **Artista** | **Amante de la música**|
+| --- | --- | --- | --- | 
+| **Ver carta**| H | L | M |
+| **Programación conciertos**| M | H | H |
+| **Reservar mesa**| H | L | M |
+| **Localización**| H | H | H |
+| **Contactar con el negocio**| L | H | M |
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+#### Site Map
 
->>> Identificar términos para diálogo con usuario  
+![Site Map](./P2/SiteMap.jpg)
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+#### Labelling 
+
+| **Etiqueta** | **Descripción** | **Icono** |
+| --- | --- | --- |
+| **Inicio**| Página inicial donde se muestra una descripción breve del lugar y los conciertos | ![Inicio](./P2/Inicio.png) |
+| **Conciertos**| Página donde se ofrece información sobre los tipos de conciertos que se pueden encontrar en el hostel | ![Conciertos](./P2/Conciertos.png) |
+| **Hoy**| Página donde se ofrece información sobre qué concierto tiene lugar en la fecha actual | |
+| **Calendario**| Página donde se ofrece información sobre los conciertos fijados durante ese mes | ![Calendario](./P2/Calendario.png) |
+| **Reservar**| Página con un formulario para realizar la reserva de una mesa | |
+| **Carta**| Página donde se muestra el menú que ofrece el restaurante | ![Menu](./P2/Menu.png) |
+| **Localización**| Página donde se muestra la ubicación del hostel y cómo llegar hasta él | ![Localizacion](./P2/Localizacion.png) |
+| **Galería**| Página donde se muestra un conjunto de imágenes del bar donde tienen lugar los conciertos | ![Galeria](./P2/Galeria.png) |
+| **Contacto**| Página con un formulario para contactar con el personal del hostel | ![Contacto](./P2/Contacto.png) |
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+#### Página de Inicio
+
+![Inicio](./P2/Inicio-Boceto.jpg)
+
+#### Página de Conciertos
+
+![Conciertos](./P2/Conciertos-Boceto.jpg)
+
+#### Página de Carta
+
+![Carta](./P2/Carta-Boceto.jpg)
+
+#### Página de Localización
+
+![Localizacion](./P2/Localizacion-Boceto.jpg)
+
+#### Página de Contacto
+
+![Contacto](./P2/Contacto-Boceto.jpg)
+
+#### Página de Reserva
+
+![Reserva](./P2/Reserva-Boceto.jpg)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
