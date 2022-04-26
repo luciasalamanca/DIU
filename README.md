@@ -71,22 +71,22 @@ La valoración final es de 61. Los usuarios son capaces de navegar por la págin
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / Empathy map / POV
 ----
 
 #### Mapa de empatía 
 
 ![Mapa de empatía](./img/EmpathyMap.PNG)
 
- Interesante | Críticas     
+| Interesante | Críticas | 
 | ------------- | -------
-  Preguntas | Nuevas ideas
+|  Diseño de la págia atractivo | Es difícil encontrar el apartado de conciertos |
+| | Es difícil encontrar la localización |
   
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+  
+Nuestra propuesta de valor está enfocada en la música en directo que ofrece el hostel. Buscando así que sea reconocido por sus conciertos y no sólo por el alojamiento. De este modo organizaremos y estructuraremos mejor todo lo relacionado con los conciertos para poder acceder fácilmente a la información y poder realizar reservas de mesas de manera más sencilla. 
+
+Hemos decidido esta propuesta de valor ya que consideramos que no se aprovecha el potencial de los conciertos para atraer a nuevos clientes. Además, queremos atraer a clientes jóvenes a través del uso de las redes sociales.
 
 
 
@@ -100,13 +100,13 @@ La valoración final es de 61. Los usuarios son capaces de navegar por la págin
 
 Hemos decidido realizar el User Task Matrix para tener una visión más clara de la importancia de cada una de las funcionalidades para saber cuáles priorizar en la interfaz.
 #### User Task Matrix 
-| Tareas | **Grupo de amigos** | **Artista** | **Amante de la música**|
-| --- | --- | --- | --- | 
-| **Ver carta**| H | L | M |
-| **Programación conciertos**| M | H | H |
-| **Reservar mesa**| H | L | M |
-| **Localización**| H | H | H |
-| **Contactar con el negocio**| L | H | M |
+| Tareas | **Grupo de amigos** | **Artista** | **Amante de la música**| **Extranjero** |
+| --- | --- | --- | --- | --- |
+| **Ver carta**| H | L | M | H |
+| **Programación conciertos**| M | H | H | L |
+| **Reservar mesa**| H | L | M | H |
+| **Localización**| H | H | H | H |
+| **Contactar con el negocio**| L | H | M | L |
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
@@ -120,7 +120,7 @@ Hemos decidido realizar el User Task Matrix para tener una visión más clara de
 | **Etiqueta** | **Descripción** | **Icono** |
 | --- | --- | --- |
 | **Inicio**| Página inicial donde se muestra una descripción breve del lugar y los conciertos | ![Inicio](./P2/Inicio.png) |
-| **Conciertos**| Página donde se ofrece información sobre los tipos de conciertos que se pueden encontrar en el hostel | ![Conciertos](./P2/Conciertos.png) |
+| **Conciertos**| Página donde se ofrece información sobre los tipos de conciertos que se pueden encontrar en el hostel. Además se ofrece la posibilidad de compartir la información del concierto a través de las redes sociales.| ![Conciertos](./P2/Conciertos.png) |
 | **Hoy**| Página donde se ofrece información sobre qué concierto tiene lugar en la fecha actual | |
 | **Calendario**| Página donde se ofrece información sobre los conciertos fijados durante ese mes | ![Calendario](./P2/Calendario.png) |
 | **Reservar**| Página con un formulario para realizar la reserva de una mesa | |
