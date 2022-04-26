@@ -84,7 +84,7 @@ La valoración final es de 61. Los usuarios son capaces de navegar por la págin
 | | Es difícil encontrar la localización |
   
   
-Nuestra propuesta de valor está enfocada en la música en directo que ofrece el hostel. Buscando así que sea reconocido por sus conciertos y no sólo por el alojamiento. De este modo organizaremos y estructuraremos mejor todo lo relacionado con los conciertos para poder acceder fácilmente a la información y poder realizar reservas de mesas de manera más sencilla. 
+Nuestra propuesta de valor está enfocada en la música en directo que ofrece el hostel, buscando así que sea reconocido por sus conciertos y no sólo por el alojamiento. De este modo organizaremos y estructuraremos mejor todo lo relacionado con los conciertos para poder acceder fácilmente a la información y poder realizar reservas de mesas de manera más sencilla. 
 
 Hemos decidido esta propuesta de valor ya que consideramos que no se aprovecha el potencial de los conciertos para atraer a nuevos clientes. Además, queremos atraer a clientes jóvenes a través del uso de las redes sociales.
 
