@@ -164,11 +164,12 @@ Hemos decidido realizar el User Task Matrix para tener una visión más clara de
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-
+La paleta de colores está compuesta por: 
+* **Dark Red**: #92140C
+* **Smoky Black**: #0F0F0F
+* **Satin Sheen Gold**: #C89933
+* **White**: #FBFBFB
+* **Xanadu**: #77867F
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
