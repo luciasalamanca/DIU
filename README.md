@@ -12,7 +12,7 @@ Descripción:
 La idea de nuestro microsite es potenciar la música en directo que se ofrece en el hostal, proponiendo un lugar en el que la música sirva como desconexión a los problemas del día a día. Esto servirá para captar la atención de los amantes de la música y de los artistas que se quieran dar a conocer.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![Logotipo](img/Logo.JPG)
 
 Miembros
  * :bust_in_silhouette:  Jesús López Pujazón     :octocat:     
@@ -164,12 +164,19 @@ Hemos decidido realizar el User Task Matrix para tener una visión más clara de
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-La paleta de colores está compuesta por: 
+
+![Moodboard](img/moodboard.JPG)
+[Moodboard en milanote](https://app.milanote.com/1NOqwR1w3mQ5eH?p=uetX8nklt0Q)
+
+Para la paleta de colores hemos decidido escoger cinco colores basados en las imágenes que nos han servido de inspiración. Estos colores son: 
 * **Dark Red**: #92140C
 * **Smoky Black**: #0F0F0F
 * **Satin Sheen Gold**: #C89933
 * **White**: #FBFBFB
 * **Xanadu**: #77867F
+
+Debido a la elegancia del jazz hemos decidido elegir el blanco, el negro y el gris. Esta elegancia también está presente en las imágenes en blanco y negro de la época.
+El rojo representa la pasión intrínseca en la propia esencia de la música en sí y el dorado simboliza los instrumentos de viento metal tan característicos en esta música.
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
