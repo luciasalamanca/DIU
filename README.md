@@ -12,7 +12,7 @@ Descripción:
 La idea de nuestro microsite es potenciar la música en directo que se ofrece en el hostal, proponiendo un lugar en el que la música sirva como desconexión a los problemas del día a día. Esto servirá para captar la atención de los amantes de la música y de los artistas que se quieran dar a conocer.
 
 Logotipo: 
-![Logotipo](img/Logo.JPG)
+![Logotipo](img/Logo.png)
 
 Miembros
  * :bust_in_silhouette:  Jesús López Pujazón     :octocat:     
@@ -180,7 +180,7 @@ El rojo representa la pasión intrínseca en la propia esencia de la música en 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
-
+![LandingPage](img/Landing page.jpg)
 
 >>> Plantear Landing Page 
 
