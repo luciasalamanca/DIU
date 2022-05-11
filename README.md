@@ -180,7 +180,8 @@ El rojo representa la pasión intrínseca en la propia esencia de la música en 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
-![LandingPage](img/Landing page.jpg)
+![LandingPage](img/LandingPage.JPG)
+[LandingPage Protopie](https://cloud.protopie.io/p/c3ace80ef5?touchHint=true&ui=true&scaleToFit=true&cursorType=touch&mockup=true&bgColor=%23F5F5F5&playSpeed=1&playerAppPopup=true)
 
 >>> Plantear Landing Page 
 
