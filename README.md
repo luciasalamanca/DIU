@@ -183,13 +183,32 @@ El rojo representa la pasión intrínseca en la propia esencia de la música en 
 ![LandingPage](img/LandingPage.JPG)
 [LandingPage Protopie](https://cloud.protopie.io/p/c3ace80ef5?touchHint=true&ui=true&scaleToFit=true&cursorType=touch&mockup=true&bgColor=%23F5F5F5&playSpeed=1&playerAppPopup=true)
 
->>> Plantear Landing Page 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Para las Guidelines hemos seguido patrones que se encuentran en [ui-patterns](https://ui-patterns.com/).
+
+#### **Navegación**
+
+* _El usuario necesita volver a una localización de inicio de la página_: se situará un botón visible permanentemente en todas las páginas con el logo que permita volver a la página inicial. [Patrón inicio](https://ui-patterns.com/patterns/HomeLink)
+
+* _El contenido debe estar separado en secciones y se debe indicar claramente la ubicación actual_: existirá una barra de menú superior con las distintas secciones donde se indique mediante un cambio de color la sección en la que se encuentra el usuario. [Patrón NavigationTabs](https://ui-patterns.com/patterns/NavigationTabs)
+
+#### **Contenido**
+
+* _El usuario necesita introducir rápidamente los datos en el sistema, pero el formato de los datos debe ajustarse a una estructura predefinida_ : para la reserva y el contacto con el lugar se usará un formulario y para la introducción de la fecha de búsqueda de los conciertos se usará un calendario. [Patrón StructuredFormat](https://ui-patterns.com/patterns/StructuredFormat)
+
+* _Los eventos deben presentarse a los usuarios en un modelo visualmente conciso que resuma la fecha y la hora_: para mostrar los conciertos se dispondrá de un calendario con cuatro opciones extra arriba (hoy, mañana, próxima semana), donde el día seleccionado se indicará mediante un cambio en el color. Al lado del calendario se mostrará la información con la fecha y la hora. [Patrón EventCalendar](https://ui-patterns.com/patterns/EventCalendar)
+
+* _El usuario quiere buscar o enviar información en base a una fecha_: tanto para reservar como para la búsqueda de conciertos existe un calendario para buscar una fecha. [Patrón CalendarPicker](https://ui-patterns.com/patterns/CalendarPicker)
+
+* _El usuario quiere compartir fácilmente su actividad en sus redes sociales_: en la parte de los conciertos existirá una opción para compartir en redes sociales mediante botones con los distintos logos de dichas redes. [Patrón Auto-sharing](https://ui-patterns.com/patterns/auto-sharing)
+
+#### **Imágenes**
+
+* El usuario necesita navegar por una colección de imágenes de alta calidad: usaremos una galería de imágenes para la carta y en la localización usaremos un slideshow. [Patrón Galería](https://ui-patterns.com/patterns/Gallery). [Patrón Slideshow](https://ui-patterns.com/patterns/Slideshow)
+
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
