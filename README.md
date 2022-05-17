@@ -231,7 +231,12 @@ Para las Guidelines hemos seguido patrones que se encuentran en [ui-patterns](ht
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+![MockupInicio](img/MockupInicio.JPG)
+![MockupConciertos](img/MockupConciertos.JPG)
+![MockupCarta](img/MockupCarta.JPG)
+![MockupLocalizacion](img/MockupLocalizacion.JPG)
+![MockupContacto](img/MockupContacto.JPG)
+![MockupReserva](img/MockupReserva.JPG)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
