@@ -168,6 +168,13 @@ Hemos decidido realizar el User Task Matrix para tener una visión más clara de
 ![Moodboard](img/moodboard.JPG)
 [Moodboard en milanote](https://app.milanote.com/1NOqwR1w3mQ5eH?p=uetX8nklt0Q)
 
+#### **Imágenes** 
+
+Las imágenes que nos han inspirado tienen todas un carácter serio y elegante, con unos colores que recuerdan mucho a la noche. El conjunto de estas imágenes sirven como un viaje a otra época lo que las caracteriza también con un toque de nostalgia.
+
+
+#### **Colores**
+
 Para la paleta de colores hemos decidido escoger cinco colores basados en las imágenes que nos han servido de inspiración. Estos colores son: 
 * **Dark Red**: #92140C
 * **Smoky Black**: #0F0F0F
@@ -176,7 +183,18 @@ Para la paleta de colores hemos decidido escoger cinco colores basados en las im
 * **Xanadu**: #77867F
 
 Debido a la elegancia del jazz hemos decidido elegir el blanco, el negro y el gris. Esta elegancia también está presente en las imágenes en blanco y negro de la época.
-El rojo representa la pasión intrínseca en la propia esencia de la música en sí y el dorado simboliza los instrumentos de viento metal tan característicos en esta música.
+El rojo representa la pasión intrínseca en la propia esencia de la música en sí y el dorado simboliza los instrumentos de viento metal tan característicos en el jazz.
+
+
+#### **Tipografías**
+
+Para los títulos o partes en las que tenga que resaltar la tipografía hemos decidido usar [Philosopher](https://fonts.google.com/specimen/Philosopher) y para el cuerpo del texto decidimos usar [Vollkorn](https://fonts.google.com/specimen/Vollkorn). Estas dos tipografías, al igual que en los dos apartados anteriores, se rigen por su elegancia.
+
+
+#### **Logotipo**
+
+El logotipo tiene un diseño bastante minimalista, haciendo uso de unas pocas líneas rectas y tan sólo un círculo y una curva. Este diseño minimalista hace que consigamos esa elegancia de la que tanto hemos hablado. Como podemos observar representa un cóctel junto con una trompeta, instrumento presente en el jazz. Estos dos elementos muestran la esencia del bar de CarlotaBraun donde la música se mezcla con el bar.
+
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
