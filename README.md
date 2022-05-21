@@ -238,7 +238,7 @@ Para las Guidelines hemos seguido patrones que se encuentran en [ui-patterns](ht
 ![MockupContacto](img/MockupContacto.JPG)
 ![MockupReserva](img/MockupReserva.JPG)
 
-[Mockup en Figma]([https://app.milanote.com/1NOqwR1w3mQ5eH?p=uetX8nklt0Q](https://www.figma.com/proto/oZ124tV1IzCqz4F6inTQr2/Material-2-Design-Kit-(Community)?node-id=1014%3A3346&scaling=min-zoom&page-id=1011%3A3346&starting-point-node-id=1014%3A3346))
+[Mockup en Figma](https://www.figma.com/file/oZ124tV1IzCqz4F6inTQr2/Material-2-Design-Kit-(Community)?node-id=1011%3A3346)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
