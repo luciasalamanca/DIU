@@ -274,6 +274,75 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
+#### Inma 
+
+| | Preguntas | 1 | 2 | 3 | 4 | 5 
+| --- | --- | --- | --- | --- | --- | ---
+| 1 | Creo que me gustará visitar con frecuencia este website |  | | **X** | | 
+| 2 | Encontré el website innecesariamente complejo | | **X** | | | 
+| 3 | Pensé que era fácil utilizar este website | | |  | **X** | 
+| 4 | Creo que necesitaría del apoyo de un experto para recorrer el website| **X** | | | | 
+| 5 | Encontré las funciones del website bastante bien integradas | | | **X** | | 
+| 6 | Pensé que había demasiada inconsistencia en el website | **X** | | | | 
+| 7 | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | | | | **X** | 
+| 8 | Encontré el website muy grande al recorrerlo | | **X** | | | 
+| 9 | Me sentí muy confiado en el manejo del website | | | **X** | | 
+| 10 | Necesito aprender muchas cosas antes de manejarse en el website| **X** | | | | 
+
+**Puntuación total:** 75
+
+#### Martín
+
+| | Preguntas | 1 | 2 | 3 | 4 | 5 
+| --- | --- | --- | --- | --- | --- | --- 
+| 1 | Creo que me gustará visitar con frecuencia este website | | | **X** | | 
+| 2 | Encontré el website innecesariamente complejo | **X** | | | | 
+| 3 | Pensé que era fácil utilizar este website | | | | | **X** 
+| 4 | Creo que necesitaría del apoyo de un experto para recorrer el website| **X** | | | | 
+| 5 | Encontré las funciones del website bastante bien integradas | |  |  **X** | | 
+| 6 | Pensé que había demasiada inconsistencia en el website | | **X** | | | 
+| 7 | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | | | | **X** | 
+| 8 | Encontré el website muy grande al recorrerlo | **X** | | | | 
+| 9 | Me sentí muy confiado en el manejo del website | | | | |  **X**
+| 10 | Necesito aprender muchas cosas antes de manejarse en el website| **X** | | | | 
+
+**Puntuación total:** 85
+
+####  Roberto
+
+| | Preguntas | 1 | 2 | 3 | 4 | 5 
+| --- | --- | --- | --- | --- | --- | ---
+| 1 | Creo que me gustará visitar con frecuencia este website | | | | **X** | 
+| 2 | Encontré el website innecesariamente complejo | | **X** | | | 
+| 3 | Pensé que era fácil utilizar este website | | | **X** | | 
+| 4 | Creo que necesitaría del apoyo de un experto para recorrer el website| | **X** | | | 
+| 5 | Encontré las funciones del website bastante bien integradas | | | **X** | | 
+| 6 | Pensé que había demasiada inconsistencia en el website | | **X**| | | 
+| 7 | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | | | **X** | | 
+| 8 | Encontré el website muy grande al recorrerlo | **X** | | | | 
+| 9 | Me sentí muy confiado en el manejo del website | | | **X** | | 
+| 10 | Necesito aprender muchas cosas antes de manejarse en el website| **X** | | | | 
+
+**Puntuación total:** 70
+
+#### Miriam
+
+| | Preguntas | 1 | 2 | 3 | 4 | 5 
+| --- | --- | --- | --- | --- | --- | ---
+| 1 | Creo que me gustará visitar con frecuencia este website | | | | | **X**
+| 2 | Encontré el website innecesariamente complejo | **X** | | | | 
+| 3 | Pensé que era fácil utilizar este website | | | | **X** | 
+| 4 | Creo que necesitaría del apoyo de un experto para recorrer el website| **X** | | | | 
+| 5 | Encontré las funciones del website bastante bien integradas | | | **X** | | 
+| 6 | Pensé que había demasiada inconsistencia en el website | |**X** | | | 
+| 7 | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | | | | **X** | 
+| 8 | Encontré el website muy grande al recorrerlo | **X** | | | | 
+| 9 | Me sentí muy confiado en el manejo del website | | | | | **X**
+| 10 | Necesito aprender muchas cosas antes de manejarse en el website| **X** | | | | 
+
+**Puntuación total:** 87.5
+
+
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
