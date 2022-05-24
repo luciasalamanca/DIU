@@ -241,36 +241,28 @@ Para las Guidelines hemos seguido patrones que se encuentran en [ui-patterns](ht
 [Mockup en Figma](https://www.figma.com/file/oZ124tV1IzCqz4F6inTQr2/Material-2-Design-Kit-(Community)?node-id=1011%3A3346)
 
 
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
------
-
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
-
-
 ## Paso 4. Evaluación 
 
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+El caso asignado es [Carlota Braun Eventos y Restaurante](https://github.com/Pablo01bm/DIU) realizada por el grupo `DIU2.tarnishedBoys`. Su propuesta consiste en añadir nuevos eventos que tengan lugar en el hostel como el evento _"funny"_ que consistirá en llevar a cómicos de invitados e incitar a la gente a participar tras la velada. También ofrecen una nueva propuesta para el menú del restaurante añadiendo comida vegana y sin gluten.
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
+Mediante los dados de usuario obtenemos estos cuatro tipos de usuario:
  
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Inma  | M / 38   | Psicóloga  | Media  | Inma es una mujer familiar, tiene pareja y dos hijos. Es una persona muy cuadriculada que le gusta tener todo ordenado. Inma está triste porque no ha tenido tiempo últimamente para ella y su marido y decide hacer un plan distinto en el Carlota Braun. | Web.       | A 
+| Martín  | H / 22  | Estudiante  | Alta | Martín no tiene movilidad en el tren inferior. Estudia traducción e interpretación por lo que le gustan los ambientes multiculturales. Lleva un tiempo asqueado porque no encuentra un lugar decente en el que conocer a gente de otros países.  | Web.       | A 
+| Roberto | M / 50  | Monitor de yoga | Media-Baja  | Roberto es una persona que le gusta mucho la tranquilidad y llevar un estilo de vida saludable. Últimamente se encuentra en una etapa de la vida en la que quiere probar cosas nuevas.  | Móvil      | B 
+| Miriam | M / 43  | Ejecutiva  | Alta  | Miriam es una mujer de negocios, en su tiempo libre le gusta disfrutar de la música y el baile, alejándose así de su ambiente de trabajo. Útimamente está muy feliz y busca un lugar donde pasar un buen rato.  | Móvil      | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
