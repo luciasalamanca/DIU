@@ -268,12 +268,6 @@ Mediante los dados de usuario obtenemos estos cuatro tipos de usuario:
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
 #### Inma 
 
 | | Preguntas | 1 | 2 | 3 | 4 | 5 
@@ -342,7 +336,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 **Puntuación total:** 87.5
 
-
+Dadas las puntuaciones obtenidas ambas webs, tanto la A como la B, tendrán éxito entre los usuarios con un nivel medio-alto de conocimiento de las TIC. Sin embargo, la opción B parece obtener una puntuación menor en usuarios con un menor nivel de manejo de las tecnologías. Comparando las personas que han realizado la encuesta para la web B podemos comprobar que ambas dan una puntuación menor a la integración de la web y la inconsistencia de ésta, probablemente debido a la opción de restaurante, la cual no permite volver a la página principal.
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
