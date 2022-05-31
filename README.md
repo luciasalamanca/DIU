@@ -338,6 +338,8 @@ Mediante los dados de usuario obtenemos estos cuatro tipos de usuario:
 
 Dadas las puntuaciones obtenidas ambas webs, tanto la A como la B, tendrán éxito entre los usuarios con un nivel medio-alto de conocimiento de las TIC. Sin embargo, la opción B parece obtener una puntuación menor en usuarios con un menor nivel de manejo de las tecnologías. Comparando las personas que han realizado la encuesta para la web B podemos comprobar que ambas dan una puntuación menor a la integración de la web y la inconsistencia de ésta, probablemente debido a la opción de restaurante, la cual no permite volver a la página principal.
 
+Podemos considerar que la opción A es más práctica para usuarios con distintos conocimientos de las tic. También tiene menos fallos en cuanto a la navegación, destacando como un error en el B el no poder volver a la pantalla de inicio desde la opción del restaurante. 
+
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
