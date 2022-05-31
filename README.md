@@ -343,11 +343,7 @@ Podemos considerar que la opción A es más práctica para usuarios con distinto
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
-
->>> Valoración personal 
+Podemos encontrar el usability report de la website b en la carpeta de la P4 o pinchando en este [enlace](/P4/P4_UsabReport_EventosRestaurante_doneby_DIU2_Unknown.pdf)
 
 
 >>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
