@@ -257,12 +257,12 @@ El caso asignado es [Carlota Braun Eventos y Restaurante](https://github.com/Pab
 Mediante los dados de usuario obtenemos estos cuatro tipos de usuario:
  
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Inma  | M / 38   | Psicóloga  | Media  | Inma es una mujer familiar, tiene pareja y dos hijos. Es una persona muy cuadriculada que le gusta tener todo ordenado. Inma está triste porque no ha tenido tiempo últimamente para ella y su marido y decide hacer un plan distinto en el Carlota Braun. | Web.       | A 
-| Martín  | H / 22  | Estudiante  | Alta | Martín no tiene movilidad en el tren inferior. Estudia traducción e interpretación por lo que le gustan los ambientes multiculturales. Lleva un tiempo asqueado porque no encuentra un lugar decente en el que conocer a gente de otros países.  | Web.       | A 
-| Roberto | M / 50  | Monitor de yoga | Media-Baja  | Roberto es una persona que le gusta mucho la tranquilidad y llevar un estilo de vida saludable. Últimamente se encuentra en una etapa de la vida en la que quiere probar cosas nuevas.  | Móvil      | B 
-| Miriam | M / 43  | Ejecutiva  | Alta  | Miriam es una mujer de negocios, en su tiempo libre le gusta disfrutar de la música y el baile, alejándose así de su ambiente de trabajo. Útimamente está muy feliz y busca un lugar donde pasar un buen rato.  | Móvil      | B 
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    |Dados |  Personalidad | Plataforma | Objetivo | TestA/B
+| ------------- | -------- | ----------- | ----------- | -----| -----------  | ---------- | ---- | --- | 
+| Inma  | M / 38   | Psicóloga  | Media  | Tipos: 2 (familia) Acción: 4 (calendario) Emoción: 6 (tristeza) | Inma es una mujer familiar, tiene pareja y dos hijos. Es una persona muy cuadriculada que le gusta tener todo ordenado. Inma está triste porque no ha tenido tiempo últimamente para ella y su marido y decide hacer un plan distinto en el Carlota Braun. | Web.       | Encontrar un plan que hacer con su marido | A 
+| Martín  | H / 22  | Estudiante  | Alta |  Tipos: 4 (diversidad funcional)  Acción: 2 (idiomas)  Emoción: 5 (asqueado) | Martín no tiene movilidad en el tren inferior. Estudia traducción e interpretación por lo que le gustan los ambientes multiculturales. Lleva un tiempo asqueado porque no encuentra un lugar decente en el que conocer a gente de otros países.  | Web.       | Quiere buscar un plan en el hostel para conocer personas de otros países   | A 
+| Roberto | H / 50  | Monitor de yoga | Media-Baja  | Tipos:  1 (meditación)  Acción: 6 (senderismo) Emoción: 4 (sorpresa)  | Roberto es una persona que le gusta mucho la tranquilidad y llevar un estilo de vida saludable. Últimamente se encuentra en una etapa de la vida en la que quiere probar cosas nuevas.  | Móvil      |  Encontrar planes distintos a los que suele hacer   | B 
+| Miriam | M / 43  | Ejecutiva  | Alta  |  Tipos: 5 (ejecutiva) Acción: 3 (baile) Emoción: 3 (felicidad)  | Miriam es una mujer de negocios, en su tiempo libre le gusta disfrutar de la música y el baile, alejándose así de su ambiente de trabajo. Últimamente está muy feliz y busca un lugar donde pasar un buen rato.  | Móvil      | Qui buscar un plan relacionado con la música | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
